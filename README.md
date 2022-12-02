@@ -1,6 +1,7 @@
 
 ## How to run
 
+
 There are different python and bash files to run different DP algorithms on MNIST dataset.
 
 
@@ -53,14 +54,7 @@ bash run_multiple_times_ALIBI.sh
 
 
 ## Requirements:
-                 
------------------------ -------
-                 
-                   
-                   
-          
-                     
-                   
+
 
 | Package  | Version |
 | ------------- | ------------- |
