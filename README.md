@@ -53,12 +53,20 @@ bash run_multiple_times_ALIBI.sh
 
 
 ## Requirements:
-Package                 Version
+                 
 ----------------------- -------
-absl-py                 1.2.0
-numpy                   1.21.2
-scipy                   1.7.3
-simple-parsing          0.0.20
-six                     1.16.0
-torch                   1.10.0
+                 
+                   
+                   
+          
+                     
+                   
 
+| Package  | Version |
+| ------------- | ------------- |
+| absl-py  | 1.2.0  |
+| numpy  | 1.21.2  |
+| scipy  | 1.7.3  |
+| simple-parsing  | 0.0.20  |
+| six  | 1.16.0  |
+| torch  | 1.10.0  |
